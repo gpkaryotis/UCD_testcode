@@ -2,7 +2,7 @@
 import numpy as np
 
 # Starting step
-step = 50
+step = 15
 
 # Roll the dice
 dice = np.random.randint(1,7)
